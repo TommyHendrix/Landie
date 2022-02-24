@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'Montserrat';
+    src: url(./font/Montserrat-Regular.otf);
+}
+
+@font-face{
+    font-family: 'Poppins';
+    src: url(./font/Poppins-Regular.otf);
+}
+
+@font-face{
+    font-family: 'Manrope';
+    src: url(./font/manrope-regular.otf);
+}
+
+@font-face{
+    font-family: 'Roboto';
+    src: url(./font/RobotoSlab-Regular.ttf);
+}
