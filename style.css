@@ -420,7 +420,7 @@ nav.active {
   top: 0;
   left: 0;
   backdrop-filter: blur(10px);
-  z-index: 10;
+  z-index: 10 !important;
 }
 
 .header_main.active {
